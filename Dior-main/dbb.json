@@ -1,0 +1,11 @@
+{
+    "idLocal": "..",
+    "UiD": 12345,
+    "Type": "Sac",
+    "K1": "b'\\xbe\\xe5H\\xf0\\t\\x16\\xc1j\\xa0\\xa7\\x11'",
+    "Customer": {
+        "Nom": "...",
+        "Prenom": "...",
+        "Date de naissance": 1980
+    }
+}
